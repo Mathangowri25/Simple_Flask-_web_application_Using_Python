@@ -53,7 +53,6 @@ flask\_todo/
    ```bash
    git clone https://github.com/yourusername/flask-todo.git
    cd flask-todo
-````
 
 2. Create and activate virtual environment:
 
@@ -62,7 +61,6 @@ flask\_todo/
    venv\Scripts\activate         # On Windows
    # OR
    source venv/bin/activate      # On macOS/Linux
-   ```
 
 3. Install dependencies:
 
@@ -91,7 +89,6 @@ flask\_todo/
    http://127.0.0.1:5000
    ```
 
----
 
 ## ☁️ Deployment on PythonAnywhere
 
