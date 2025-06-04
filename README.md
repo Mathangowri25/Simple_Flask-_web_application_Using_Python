@@ -14,13 +14,6 @@ This is a simple To-Do List web application built using the **Flask** framework 
 
 ---
 
-## 🚀 Live Demo
-
-🌐 [View the live app here](https://yourusername.pythonanywhere.com)  
-> Replace with your actual deployed link on PythonAnywhere
-
----
-
 ## 🛠️ Tech Stack
 
 - **Backend**: Python (Flask)
