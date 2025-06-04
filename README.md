@@ -1,5 +1,4 @@
-```markdown
-# 📝 Flask To-Do List Web App
+## 📝 Flask To-Do List Web App
 
 This is a simple To-Do List web application built using the **Flask** framework and **SQLite** as the backend database. It allows users to add and delete tasks dynamically via a clean web interface.
 
